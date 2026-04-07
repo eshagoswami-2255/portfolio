@@ -124,6 +124,9 @@ export default function Portfolio() {
           <a href="https://www.linkedin.com/in/esha-goswami-106a92354" target="_blank">
             LinkedIn
           </a>
+          <a href="https://github.com/eshagoswami-2255" target="_blank">
+            Github
+          </a>
         </div>
       </section>
 
